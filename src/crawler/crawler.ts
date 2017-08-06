@@ -2,7 +2,7 @@ const request = require("request");
 const URL = require("url-parse");
 import cheerio = require("cheerio");
 
-var START_URL: string = "https://www.bloomberg.com/markets";
+var START_URL: string = "https://engadget.com";
 var SEARCH_WORD: string = "rise";
 var MAX_PAGES_TO_VISIT: number = 15;
 

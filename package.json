@@ -25,10 +25,12 @@
     "@types/react-dom": "^15.5.2",
     "@types/request": "^2.0.0",
     "cheerio": "^0.19.0",
+    "fs": "0.0.1-security",
     "mongoose": "^4.11.5",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "request": "^2.81.0",
+    "simplecrawler": "^1.1.4",
     "url-parse": "^1.0.5"
   },
   "devDependencies": {
