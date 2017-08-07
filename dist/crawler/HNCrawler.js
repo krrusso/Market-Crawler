@@ -2,7 +2,7 @@ var request = require("request");
 var cheerio = require("cheerio");
 var fs = require("fs");
 
-request("askalvin.herokuapp.com/", function(error, response, body) {
+request("https://slickdeals.net", function(error, response, body) {
   if (error) {
     console.log("Error: " + error);
   }

@@ -3,16 +3,18 @@ var mongoose = require("mongoose");
 var Schema = mongoose.Schema;
 
 // create a schema
-var symbolSchema = new Schema({
-  name: String,
-  symbol: { type: String, unique: true },
-  price: Number,
+var keywordSchema = new Schema({
+  keyword: { type: String, unique: true },
+  weight: { type: Number, min: -5, max: 5 },
+  frequency: Number,
+  precedingFiveWords: String,
+  followingFiveWords: String,
   percentChange: Number,
   timestamps: { createdAt: "created_at" }
 });
 
 // we need to create a model using it
-var Symbol = mongoose.model("Symbol", symbolSchema);
+var Keyword = mongoose.model("Keyword", keywordSchema);
 
 // make this available to our users in our Node applications
-module.exports = Symbol;
+module.exports = Keyword;
