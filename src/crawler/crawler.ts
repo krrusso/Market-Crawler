@@ -2,9 +2,9 @@ const request = require("request");
 const URL = require("url-parse");
 import cheerio = require("cheerio");
 
-var START_URL = "http://www.slickdeals.net";
-var SEARCH_WORD = "rise";
-var MAX_PAGES_TO_VISIT = 3;
+var START_URL: string = "https://engadget.com";
+var SEARCH_WORD: string = "rise";
+var MAX_PAGES_TO_VISIT: number = 15;
 
 var pagesVisited: object = {};
 var numPagesVisited: number = 0;

@@ -1,0 +1,29 @@
+Autism and gender (im)balance in tech,http://donaldclarkplanb.blogspot.com/2017/07/is-gender-inequality-in-technology-good.html
+CHIP-8 in Common Lisp,http://stevelosh.com/blog/2016/12/chip8-graphics/?m=1
+Africa has entered the space race, with Ghana’s first satellite now orbiting earth,https://techcrunch.com/2017/08/06/africa-enters-the-space-race/
+Silicon Valley's millionaire engineers who get paid gobs of money and barely work,http://www.businessinsider.com/rest-and-vest-millionaire-engineers-who-barely-work-silicon-valley-2017-7
+Getting Started in Star Lisp (1991) [pdf],http://people.csail.mit.edu/bradley/cm5docs/nov06/GettingStartedinStarLisp.pdf
+1950s New York City’s ‘Mad Bomber’,https://www.damninteresting.com/ghoulish-acts-dastardly-deeds/
+Tofu – The opposite of a font,https://github.com/JuanPotato/Tofu
+Talla – An Erlang Implementation of Tor [video],https://media.ccc.de/v/SHA2017-304-introducing_talla_an_erlang_implementation_of_tor
+Maurice Sendak Picture Book Discovered,https://www.publishersweekly.com/pw/by-topic/childrens/childrens-authors/article/74181-new-sendak-picture-book-discovered.html
+Is America Encouraging the Wrong Kind of Entrepreneurship?,https://hbr.org/2017/06/is-america-encouraging-the-wrong-kind-of-entrepreneurship
+Is Handwriting History?,http://www.publicbooks.org/is-handwriting-history/
+Dinosaur and Lisp,http://vito.sdf.org/dino.html?m=1
+Why I Traded My TV for a Turntable,https://blog.nathanaelsilverman.com/2017/08/05/no-tv/
+Where’s My Depth First Search Machine Learning?,https://medium.com/@old_sound/wheres-my-depth-first-search-machine-learning-6dd83436adab
+Parametric Study of a Genetic Algorithm (2003) [pdf],http://www.genetic-programming.org/sp2003/Marta.pdf
+Breakthrough: solid-state alkaline batteries a viable alternative to lithium-ion,https://www.nytimes.com/2017/08/01/technology/alkaline-batteries-replace-lithium-ion.html
+Where Tcl and Tk Went Wrong (2010),https://journal.dedasys.com/2010/03/30/where-tcl-and-tk-went-wrong/
+Show HN: Open-Source Selenium IDE Light Extension for Chrome, Kantu for Chrome,https://chrome.google.com/webstore/detail/kantu-browser-automation/gcbalfbdmfieckjlnblleoemohcganoc
+Ask HN: What is your biggest business expense besides salaries?,item?id=14943172
+The Louisiana Environmental Apocalypse Road Trip,https://longreads.com/2017/07/13/the-louisiana-environmental-apocalypse-road-trip/
+A Baccarat Binge Helped Launder the World’s Biggest Cyberheist,https://www.bloomberg.com/news/features/2017-08-03/a-baccarat-binge-helped-launder-the-world-s-biggest-cyberheist
+SDF Public Access Unix System,https://en.wikipedia.org/wiki/SDF_Public_Access_Unix_System
+The structure of a GCC back end,https://kristerw.blogspot.com/2017/08/the-structure-of-gcc-back-end.html
+Skiffle Craze: An Interview with Billy Bragg,https://www.theparisreview.org/blog/2017/08/01/an-interview-with-billy-bragg/#more-113321
+HTML5 Version of the Tron:Legacy Boardroom Scene,https://www.robscanlon.com/encom-boardroom/
+Incident Response: The crash of BA38,https://medium.com/@sricola/crisis-management-4c1b570d8c0e
+The Kremlin Is Suddenly Obsessed with Cryptocurrencies Due to the Magnitsky Act,http://www.thedailybeast.com/why-is-the-kremlin-suddenly-obsessed-with-cryptocurrencies?via=newsletter&source=Weekend
+Airbnb dominated by professional landlords,http://www.dw.com/en/airbnb-dominated-by-professional-landlords/a-39972379
+Squishy Sentience: On Cephalopods,https://lareviewofbooks.org/article/squishy-sentience
