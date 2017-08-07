@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 // grab the things we need
 var mongoose = require("mongoose");
 var Schema = mongoose.Schema;
@@ -15,6 +17,5 @@ var scrapeDataSchema = new Schema({
 });
 // create a model using the schema
 var ScrapeData = mongoose.model("Symbol", scrapeDataSchema);
-// make this available to our users in our Node applications
-module.exports = ScrapeData;
+exports.default = ScrapeData;
 //# sourceMappingURL=ScrapeData.js.map

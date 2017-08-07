@@ -1,3 +1,5 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 // grab the things we need
 var mongoose = require("mongoose");
 var Schema = mongoose.Schema;
@@ -12,5 +14,5 @@ var symbolSchema = new Schema({
 // we need to create a model using it
 var Symbol = mongoose.model("Symbol", symbolSchema);
 // make this available to our users in our Node applications
-module.exports = Symbol;
+exports.default = Symbol;
 //# sourceMappingURL=Symbol.js.map

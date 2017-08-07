@@ -16,5 +16,4 @@ var keywordSchema = new Schema({
 // we need to create a model using it
 var Keyword = mongoose.model("Keyword", keywordSchema);
 
-// make this available to our users in our Node applications
-module.exports = Keyword;
+export default Keyword;

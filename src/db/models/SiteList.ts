@@ -13,4 +13,4 @@ var siteListSchema = new Schema({
 var SiteList = mongoose.model("SiteList", siteListSchema);
 
 // make this available to our users in our Node applications
-module.exports = SiteList;
+export default SiteList;

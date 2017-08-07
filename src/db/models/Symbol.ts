@@ -15,4 +15,4 @@ var symbolSchema = new Schema({
 var Symbol = mongoose.model("Symbol", symbolSchema);
 
 // make this available to our users in our Node applications
-module.exports = Symbol;
+export default Symbol;

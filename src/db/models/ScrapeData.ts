@@ -18,5 +18,4 @@ var scrapeDataSchema = new Schema({
 // create a model using the schema
 var ScrapeData = mongoose.model("Symbol", scrapeDataSchema);
 
-// make this available to our users in our Node applications
-module.exports = ScrapeData;
+export default ScrapeData;
